@@ -20,9 +20,9 @@
 ---
 
 ## 📂 Projetos em destaque
-- 🔗 [Meu GitHub](https://github.com/VGNelo)  
-- 💻 Projetos acadêmicos e pessoais em desenvolvimento  
-- 🌱 Trabalhos em andamento e estudos de novas tecnologias  
+- [Sistema de Login](https://github.com/VGNelo/sistema-login)  
+- [API de Palavras-chave](https://github.com/VGNelo/api-keywords)  
+- [Projeto Acadêmico](https://github.com/VGNelo/projeto-academico)  
 
 ---
 
@@ -31,3 +31,4 @@
 ✨ Obrigado por visitar meu perfil! ✨
 
 </div>
+
