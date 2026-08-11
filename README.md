@@ -32,7 +32,7 @@ Profissional em formação, focado em **análise de dados**, transformando dados
 
 ## 📂 Projetos em Destaque
 - 🛍️ [Análise de Dados — Lojas Alura](https://github.com/VGNelo/Alura-Analise-de-dados1---lojas-alura)  
-- 🚀 [G9.br — Hackathon](https://github.com/VGNelo/g9.br)  
+- 🚀 [G9.br — Hackathon (TechMind Team 10)](https://github.com/No-Country-simulation/g9-br-techmind-team10)  
 - 🐍 [Python POO](https://github.com/VGNelo/PythomPOO)  
 
 ---
