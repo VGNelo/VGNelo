@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Tecnologias que uso
-- **Backend:** Python, PHP (Laravel), Node.js  
+- **Backend:** Python, PHP (Laravel), Node.js, **Java**  
 - **Frontend:** HTML, CSS, JavaScript, React  
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
 - **Cloud:** AWS, Azure, Google Cloud  
