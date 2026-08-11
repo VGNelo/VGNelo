@@ -3,7 +3,7 @@
 
 Profissional em formação, focado em **análise de dados**, transformando dados em informações para apoiar decisões estratégicas.
 
-🎯 **Foco atual:** Análise de Dados · Python · Pandas · Jupyter Notebook
+🎯 **Foco atual:** Análise de Dados · Python · Pandas · Jupyter Notebook · Java
 
 ---
 
@@ -32,7 +32,7 @@ Profissional em formação, focado em **análise de dados**, transformando dados
 
 ## 📂 Projetos em Destaque
 - 🛍️ [Análise de Dados — Lojas Alura](https://github.com/VGNelo/Alura-Analise-de-dados1---lojas-alura)  
-- 📡 [Desafio TelecomX (Parte 1 e 2)](https://github.com/VGNelo/TelecomX_BR---Alura-ONE)  
+- 🚀 [G9.br — Hackathon](https://github.com/VGNelo/g9.br)  
 - 🐍 [Python POO](https://github.com/VGNelo/PythomPOO)  
 
 ---
@@ -41,9 +41,9 @@ Profissional em formação, focado em **análise de dados**, transformando dados
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vgnelo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemirgasparnelo/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vgnelo.gaspar/?igshid=MWM2YjBjM2Q=)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vgnelo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemirgasparnelo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vgnelo.gaspar/?igshid=MWM2YjBjM2Q=)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/valdemir.gaspar.831879)
 
 </div>
