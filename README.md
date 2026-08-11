@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Valdemir Gaspar Nelo
+### 🌐 Onde você pode me encontrar
 
-### 🌐 Conecte-se comigo
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:vgnelo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemirgasparnelo/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vgnelo.gaspar/?igshid=MWM2YjBjM2Q=)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/valdemir.gaspar.831879)
@@ -23,6 +22,7 @@
 ## 📂 Projetos em destaque
 - 🔗 [Meu GitHub](https://github.com/VGNelo)  
 - 💻 Projetos acadêmicos e pessoais em desenvolvimento  
+- 🌱 Trabalhos em andamento e estudos de novas tecnologias  
 
 ---
 
