@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**VGNelo/VGNelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Olá, eu sou Valdemir Gaspar Nelo
 
-Here are some ideas to get you started:
+### 🌐 Conecte-se comigo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdemirgasparnelo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/vgnelo.gaspar/?igshid=MWM2YjBjM2Q=)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/valdemir.gaspar.831879)
+
+</div>
+
+---
+
+## 🚀 Tecnologias que uso
+- **Backend:** Python, PHP (Laravel), Node.js  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Banco de Dados:** MySQL, PostgreSQL, MongoDB  
+- **Cloud:** AWS, Azure, Google Cloud  
+
+---
+
+## 📂 Projetos em destaque
+- 🔗 [Meu GitHub](https://github.com/VGNelo)  
+- 💻 Projetos acadêmicos e pessoais em desenvolvimento  
+
+---
+
+<div align="center">
+
+✨ Obrigado por visitar meu perfil! ✨
+
+</div>
