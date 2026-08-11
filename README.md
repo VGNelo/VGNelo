@@ -15,13 +15,16 @@ Profissional em formação, focado em **análise de dados**, transformando dados
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=google-cloud&logoColor=white)
@@ -31,9 +34,15 @@ Profissional em formação, focado em **análise de dados**, transformando dados
 ---
 
 ## 📂 Projetos em Destaque
-- 🛍️ [Análise de Dados — Lojas Alura](https://github.com/VGNelo/Alura-Analise-de-dados1---lojas-alura)  
-- 🚀 [G9.br — Hackathon (TechMind Team 10)](https://github.com/No-Country-simulation/g9-br-techmind-team10)  
-- 🐍 [Python POO](https://github.com/VGNelo/PythomPOO)  
+
+- 🛍️ **[Análise de Dados — Lojas Alura](https://github.com/VGNelo/Alura-Analise-de-dados1---lojas-alura)**  
+  Análise de faturamento, clientes e logística de 4 lojas → recomendação fundamentada com dados.
+
+- 🚀 **[TechMind — Hackathon NoCountry](https://github.com/No-Country-simulation/g9-br-techmind-team10)**  
+  Plataforma inteligente de catalogação de conteúdos técnicos com IA. Equipe G9 Team10.
+
+- 🐍 **[Python POO](https://github.com/VGNelo/PythomPOO)**  
+  Estudos e implementações de Programação Orientada a Objetos em Python.
 
 ---
 
