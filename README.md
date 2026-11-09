@@ -1,7 +1,6 @@
 # 💻 Valdemir Gaspar Nelo
-### 📊 Analista de Dados Júnior | Técnico em Desenvolvimento de Sistemas
+### Gestão Pública | Técnico em Desenvolvimento de Sistemas 
 
-Profissional em formação, focado em **análise de dados**, transformando dados em informações para apoiar decisões estratégicas.
 
 🎯 **Foco atual:** Análise de Dados · Python · Pandas · Jupyter Notebook · Java
 
